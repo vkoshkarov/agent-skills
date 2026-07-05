@@ -32,7 +32,7 @@ cp -r java-telegram-bots ~/.agents/skills/
 ## 📂 Структура репозитория
 
 ```
-skills/
+agent-skills/
 ├── java-telegram-bots/
 │   └── SKILL.md
 └── ... (другие навыки)
