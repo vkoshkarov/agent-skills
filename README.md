@@ -57,8 +57,6 @@ agent-skills/
 4. Добавьте примеры кода и decision rules
 5. Следуйте принципу TDD для документации: проверьте, что агент без навыка ошибается, а с навыком — нет
 
-Подробнее: [writing-skills/SKILL.md](writing-skills/SKILL.md)
-
 ## 🧠 Формат навыка (AgentSkills Specification)
 
 ```yaml
